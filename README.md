@@ -26,6 +26,13 @@
 ## 제3자 구성 요소
 
 터널은 WireGuard LLC 의 공식 `wireguard.dll`(wireguard-nt)을 고치지 않고 그대로 씁니다 — 라이선스는 [wireguard-prebuilt-license.txt](wireguard-prebuilt-license.txt) 이고 설치 꾸러미에도 함께 들어 있습니다. JHJ NetConnect 는 WireGuard 프로젝트와 관계가 없습니다.
+## 라이선스
+
+**JHJ 독점 소프트웨어입니다**([LICENSE](LICENSE)). 설치 파일과 프로그램은 고치지 않은 그대로라면 누구에게나 무료로 나눠도 됩니다.
+소스 코드의 재사용 · 수정 · 재배포와 역설계는 허락하지 않습니다.
+
+포함된 오픈 소스 구성 요소의 고지는 [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) 에 있습니다(그 구성 요소에만 적용).
+
 ## 문의
 
 서비스 · 광고 · 제휴 문의 jhj@wecco.co.kr
